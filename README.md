@@ -23,3 +23,14 @@ Muestra el detalle del commit especificado
 
 # git diff 
 Muestra las diferencias de los archivos, los cambios en local y como esta en la version anterior
+
+# git branch 
+Muestra las ramas con las que cuento en el repositorio y me indica cual es la actual
+
+# git branch branchName 
+Me crea una rama con el nombre que se le indica
+
+# git switch branchName 
+Cambia la rama en la que quiero trabajar
+
+
