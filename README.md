@@ -14,3 +14,12 @@ Este comando es para agregar a stage todos los cambios que tenemos
 
 # git commit -m "message" 
 Comando para crear un commit con el mensaje descriptivo de que se modifico
+
+# git log 
+Muestra un historial de commits realizados
+
+# git show commitId 
+Muestra el detalle del commit especificado
+
+# git diff 
+Muestra las diferencias de los archivos, los cambios en local y como esta en la version anterior
