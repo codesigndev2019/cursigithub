@@ -47,3 +47,6 @@ Retorna el/los archivos que estan en stash y lo elimina del listado (para manten
 
 # git merge branch
 Hace merge de los cambios que se tienen en una rama para actualizar otra
+
+# git branch -d branchName
+Elimina una rama que ya no se utiliza mas
