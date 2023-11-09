@@ -50,3 +50,15 @@ Hace merge de los cambios que se tienen en una rama para actualizar otra
 
 # git branch -d branchName
 Elimina una rama que ya no se utiliza mas
+
+# git merge --abort 
+Permite revertir un merge
+
+# git reset --hard commitId
+Esto hace que podamos regresar un branch al estado en que se encontraba en el commit seleccionado
+
+# git commit --amend  --no-edit (no-edit es para que no modificar el mensaje)
+Modificar un commit para agregregar archivos nuevos al commit mas reciente
+
+# git revert 
+Para revertir cambios en el commit  
